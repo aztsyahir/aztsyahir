@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 <p>📫 How to reach me: aztsyahir@gmail.com</p>
-<p>📍 Kajang, Selangor | 🎓 Bachelor Of Information Systems (Hons.) Information Systems Engineering Student | 💻 Still in learning and improving Java skills.</p>
+<p>📍 Kajang, Selangor | 🎓 Bachelor Of Information Systems (Hons.) Information Systems Engineering | 💻 Still in learning and improving Java skills.</p>
 
 
 ## 🌐 Socials:
